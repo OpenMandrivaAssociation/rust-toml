@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.5.8
-Release:        1
+Release:        2
 Summary:        Native Rust encoder and decoder of TOML-formatted files and streams
 
 # Upstream license specification: MIT/Apache-2.0
